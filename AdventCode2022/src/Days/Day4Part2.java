@@ -21,7 +21,7 @@ So, in this example, the number of overlapping assignment pairs is 4.
 In how many assignment pairs do the ranges overlap?
 859
  */
-public class Days4Part2 {
+public class Day4Part2 {
 	public static void main(String[] args) throws IOException {
 		pairsContained();
 
